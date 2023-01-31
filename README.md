@@ -1,6 +1,24 @@
 ### Hi there 👋 
+I'm Pawasu, or call me 'Mak' 🍟
 
-- about Ⓜ️
+About Ⓜ️
+- Interested in everything relate data 
+- My current focus about data is specifically on business.
+
+Now 📦
+- Studying the data master bootcamp and datacamp.
+- Undertake diverse projects to build up experience for actual work.
+
+skills 🧑‍💻
+- R (tidyverse and ggplot2)
+- Python (Pandas, Numpy, Datetime and Matplotlib, sklearn)
+- MS Excel, Google Sheets (Pivot, VLOOKUP)
+
+Project 📑
+- Click <a href="https://www.marketwatch.com/story/netflix-shares-close-up-8-for-yet-another-record-high-2020-07-10">HERE</a>
+
+
+
 <!--
 **pawasu/pawasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
