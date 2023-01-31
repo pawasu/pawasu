@@ -15,7 +15,7 @@ skills 🧑‍💻
 - MS Excel, Google Sheets (Pivot, VLOOKUP)
 
 Project 📑
-- Click <a href="https://www.marketwatch.com/story/netflix-shares-close-up-8-for-yet-another-record-high-2020-07-10">HERE</a>
+- Click <a href="https://github.com/pawasu/Portfolio">HERE</a>
 
 
 
