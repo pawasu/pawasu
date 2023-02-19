@@ -10,9 +10,11 @@ Now 📦
 - Undertake diverse projects to build up experience for actual work.
 
 skills 🧑‍💻
-- R (tidyverse and ggplot2)
-- Python (Pandas, Numpy, Datetime and Matplotlib, sklearn)
-- MS Excel, Google Sheets (Pivot, VLOOKUP)
+- Python(GoogleColab): NumPy, Pandas, Matplotlib, Scikit-Learn
+- SQL(SQLite): Query Writing, Stored Procedures, Views
+- Power BI: Report Creation, Data Analysis, DAX
+- Spreadsheet(GoogleSheet): VLOOKUP, Pivot, Basic function
+- R: dplyr, ggplot2, tidyr
 
 Project 📑
 - Click <a href="https://github.com/pawasu/Portfolio">HERE</a>
