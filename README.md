@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋 
 I'm Pawasu, or call me 'Mak' 🍟
 
@@ -19,7 +20,7 @@ skills 🧑‍💻
 Project 📑
 - Click <a href="https://github.com/pawasu/Portfolio">HERE</a>
 
-
+-->
 
 <!--
 **pawasu/pawasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
